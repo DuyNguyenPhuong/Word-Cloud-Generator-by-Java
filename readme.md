@@ -1,5 +1,4 @@
 # Word Counter
-Made by Malachy Guzman and Duy Nguyen
 
 ## Overview
 
