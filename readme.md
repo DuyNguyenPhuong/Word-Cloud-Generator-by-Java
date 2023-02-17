@@ -1,4 +1,4 @@
-# Word Counter
+# Word Count Generator
 
 ![My Image](images/WordCloud.jpeg)
 
