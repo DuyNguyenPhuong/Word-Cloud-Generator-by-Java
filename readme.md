@@ -1,5 +1,7 @@
 # Word Counter
 
+![My Image](images/WordCloud.jpeg)
+
 ## Overview
 
 This project creates a word cloud from a text file. It allows the user to specify how many words they want to see, and then the word cloud scales the each individual word's size relative to how many times it appears in the text.
