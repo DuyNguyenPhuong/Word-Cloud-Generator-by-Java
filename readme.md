@@ -1,6 +1,6 @@
 # Word Count Generator
 
-![My Image](images/WordCloud.jpeg)
+![My Image](images/WordCloud.jpg)
 
 ## Overview
 
